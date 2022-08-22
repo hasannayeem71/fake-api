@@ -13,86 +13,32 @@
       "color": "green"
     },
     {
-      "text": "Test 1 edited",
-      "completed": false,
+      "text": "Learn React from lws",
+      "completed": true,
       "id": 8,
       "color": "yellow"
     },
     {
-      "text": "new todo",
+      "text": "Learn Javascript from lws",
       "completed": false,
       "id": 9,
       "color": "red"
     },
     {
-      "text": "good one two",
-      "completed": false,
+      "text": "Learn Mantine",
+      "completed": true,
       "id": 11,
       "color": "red"
     },
     {
-      "text": "sxdfg",
+      "text": "Learn Tailwind",
       "completed": false,
       "id": 12
     },
+
     {
-      "text": "sdf",
+      "text": "Read Documentation",
       "completed": true,
-      "id": 13
-    },
-    {
-      "text": "sdfdf",
-      "completed": true,
-      "id": 14
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 15
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 16
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 17
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 18
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 19
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 20
-    },
-    {
-      "text": "sdf",
-      "completed": true,
-      "id": 21
-    },
-    {
-      "text": "dfg",
-      "completed": false,
-      "id": 22
-    },
-    {
-      "text": "dfg",
-      "completed": false,
-      "id": 23
-    },
-    {
-      "text": "dfg",
-      "completed": false,
       "id": 24
     }
   ]
